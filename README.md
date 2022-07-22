@@ -1,1 +1,2 @@
-Print("1")
+pip instrall pygame
+
